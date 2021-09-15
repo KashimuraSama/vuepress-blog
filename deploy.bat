@@ -13,3 +13,5 @@ git commit -m "deploy"
 
 rem 推送到github gh-pages分支
 git push -f git@github.com:KashimuraSama/vuepress-blog.git master:gh-pages
+
+cd ../../..
