@@ -48,13 +48,13 @@ module.exports = {
   author: {
     // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, link: String}
     name: 'Kashimura', // 必需
-    link: 'https://github.com/KashimuraSama', // 可选的
+    link: 'https://gitee.com/Kashimura', // 可选的
   },
   blogger: {
     // 博主信息，显示在首页侧边栏
-    avatar: 'https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200103123203.jpg',
-    name: 'Evan Xu',
-    slogan: '前端界的小学生',
+    avatar: 'https://z3.ax1x.com/2021/09/15/4V5vTO.jpg',
+    name: 'Kashimura',
+    slogan: '写代码里的臭萌新',
   },
   social: {
     // 社交图标，显示于博主信息栏和页脚栏
@@ -63,25 +63,25 @@ module.exports = {
       {
         iconClass: 'icon-youjian',
         title: '发邮件',
-        link: 'mailto:894072666@qq.com',
+        link: 'mailto:kashimura@qq.com',
       },
       {
         iconClass: 'icon-github',
-        title: 'GitHub',
-        link: 'https://github.com/xugaoyi',
+        title: 'Gitee',
+        link: 'https://gitee.com/Kashimura',
       },
       {
         iconClass: 'icon-erji',
         title: '听音乐',
-        link: 'https://music.163.com/#/playlist?id=755597173',
+        link: 'https://music.163.com/#/p',
       },
     ],
   },
   footer: {
     // 页脚信息
-    createYear: 2019, // 博客创建年份
+    createYear: 2021, // 博客创建年份
     copyrightInfo:
-      'Evan Xu | <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/blob/master/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
+      'Evan Xu | <a href="https://github.com/KashimuraSama/vuepress-blog/blob/master/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
   },
   htmlModules // 插入hmtl(广告)模块
 }

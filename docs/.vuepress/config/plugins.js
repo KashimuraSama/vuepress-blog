@@ -85,7 +85,7 @@ module.exports = [
       options: {
         clientID: '07c69d2120799dd9a8c8',
         clientSecret: '65b8233ec89c3e949aca0f06aa87723188757bad',
-        repo: 'kashimura-blog', // GitHub 仓库
+        repo: 'vuepress-blog', // GitHub 仓库
         owner: 'KashimuraSama', // GitHub仓库所有者
         admin: ['KashimuraSama'], // 对仓库有写权限的人
         // distractionFreeMode: true,
